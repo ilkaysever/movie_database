@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kullanım Koşulları – Movie Database</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 720px;
+      margin: 24px auto;
+      padding: 0 16px 48px;
+      line-height: 1.55;
+      color: #111;
+    }
+    h1 { font-size: 1.6rem; margin-bottom: 0.25rem; }
+    h2 { font-size: 1.1rem; margin-top: 1.6rem; }
+    .muted { color: #666; font-size: 0.92rem; }
+    ul { padding-left: 1.2rem; }
+    a { color: #0b57d0; }
+  </style>
+</head>
+<body>
+  <h1>Kullanım Koşulları</h1>
+  <p class="muted">Movie Database iOS uygulaması · Son güncelleme: 20.10.2026</p>
+
+  <p>
+    Bu Kullanım Koşulları, Movie Database iOS uygulamasının (“Uygulama”) kullanımını düzenler.
+    Uygulamayı yükleyerek veya kullanarak bu koşulları kabul etmiş sayılırsınız.
+    Kabul etmiyorsanız uygulamayı kullanmayınız.
+  </p>
+
+  <h2>1. Hizmetin tanımı</h2>
+  <p>
+    Movie Database; film ve dizi keşfi, listeler, öneriler ve benzeri özellikleri sunan bir iOS uygulamasıdır.
+    Film/dizi içerik bilgileri büyük ölçüde TMDB (The Movie Database) üzerinden sağlanır.
+  </p>
+
+  <h2>2. Hesap</h2>
+  <p>
+    Bazı özellikler için TMDB hesabı ile giriş gerekebilir. Hesap bilgilerinizin gizliliğinden siz sorumlusunuz.
+    Misafir / giriş yapmadan kullanımda bazı özellikler sınırlı olabilir.
+  </p>
+
+  <h2>3. Abonelikler ve ödemeler</h2>
+  <ul>
+    <li>Premium özellikler (ör. reklamsız deneyim, genişletilmiş öneriler) ücretli abonelik veya satın alma ile sunulabilir.</li>
+    <li>Ödemeler Apple App Store üzerinden alınır; fiyatlar satın alma anında App Store’da görünen tutardır.</li>
+    <li>Otomatik yenilenen abonelikler, dönem bitmeden en az 24 saat önce iptal edilmezse yenilenebilir.</li>
+    <li>Aboneliği yönetmek veya iptal etmek için cihazınızın App Store abonelik ayarlarını kullanın.</li>
+  </ul>
+
+  <h2>4. Kabul edilebilir kullanım</h2>
+  <ul>
+    <li>Uygulamayı yasalara aykırı şekilde kullanamazsınız.</li>
+    <li>Uygulamanın güvenliğini bozmaya, tersine mühendislik yapmaya veya hizmeti kötüye kullanmaya çalışamazsınız.</li>
+    <li>Uygulama içeriğini (yazılım, tasarım, marka öğeleri) izinsiz kopyalayamaz, çoğaltamaz veya yeniden yayımlayamazsınız.</li>
+  </ul>
+
+  <h2>5. Üçüncü taraf içerik ve hizmetler</h2>
+  <p>
+    Film/dizi bilgileri, görseller ve ilgili meta veriler TMDB ve diğer üçüncü taraflara ait olabilir.
+    Reklamlar (AdMob) ve analitik / çökme raporlama (Firebase) üçüncü taraf hizmetlerdir.
+    Bu tarafların içerik veya hizmetlerinden doğan sorunlardan Movie Database sorumlu tutulamaz.
+  </p>
+
+  <h2>6. Sorumluluk sınırlaması</h2>
+  <p>
+    Uygulama “olduğu gibi” sunulur. İçeriklerin kesintisiz, hatasız veya ihtiyaçlarınıza tam uygun olacağı garanti edilmez.
+    Yasaların izin verdiği ölçüde, dolaylı veya sonuç olarak ortaya çıkan zararlardan sorumlu olmayız.
+  </p>
+
+  <h2>7. Fikri mülkiyet</h2>
+  <p>
+    Uygulamanın yazılımı, arayüzü ve marka öğeleri Movie Database’e aittir.
+    TMDB içerikleri ilgili hak sahiplerine / TMDB koşullarına tabidir.
+  </p>
+
+  <h2>8. Değişiklikler</h2>
+  <p>
+    Bu koşulları güncelleyebiliriz. Güncel metin bu sayfada yayınlanır. “Son güncelleme” tarihi değiştirilir.
+    Güncellemeden sonra uygulamayı kullanmaya devam etmeniz yeni koşulları kabul ettiğiniz anlamına gelir.
+  </p>
+
+  <h2>9. İletişim</h2>
+  <p>
+    Sorularınız için:
+    <a href="mailto:ilkaysever92@gmail.com">ilkaysever92@gmail.com</a>
+  </p>
+</body>
+</html>
